@@ -7,4 +7,4 @@
 
 # cards
 
-# Посмотреть онлайн можно тут https://cards-game12312312.herokuapp.com/
+# Посмотреть онлайн можно тут  https://kumabar.github.io/cards/
