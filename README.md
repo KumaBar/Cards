@@ -7,4 +7,4 @@
 
 # cards
 
-# Посмотреть онлайн можно тут  https://kumabar.github.io/cards/
+#  https://kumabar.github.io/cards/
